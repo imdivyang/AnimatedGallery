@@ -1,1 +1,1 @@
-# rn_gallery
+# Animated Gallery
